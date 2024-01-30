@@ -4,4 +4,4 @@
 # Prática - Comunicação SPI para simular um controle de acesso com o módulo RFID.
 ## Integrantes: 
 ### Daniel Bruno Azevedo Santos
-### Douglas
+### Francisco Douglas Marques de Medeiros
